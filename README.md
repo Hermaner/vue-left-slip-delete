@@ -1,4 +1,4 @@
-# aaa
+# vue-left-slip-delete
 
 > A Vue.js project
 
